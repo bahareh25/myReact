@@ -1,5 +1,5 @@
 # myReact
-## differnt small sample of React project
+### Different small sample of React project
 1. Backend GRPc front React
 2. React_FileUploade 
 3. React_Redux
