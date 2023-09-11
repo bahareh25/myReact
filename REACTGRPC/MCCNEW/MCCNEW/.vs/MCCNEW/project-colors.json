@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ce8c0975-32fe-4612-896c-7826a4b8a12c": {
+      "ProjectGuid": "ce8c0975-32fe-4612-896c-7826a4b8a12c",
+      "DisplayName": "MCCNew.Infra.DataLayer",
+      "ColorIndex": 0
+    },
+    "1bfedbfc-eba4-4ac6-8dba-a6cc7c463502": {
+      "ProjectGuid": "1bfedbfc-eba4-4ac6-8dba-a6cc7c463502",
+      "DisplayName": "MCCNew.Domain.Contracts",
+      "ColorIndex": 1
+    },
+    "82c9a0a1-8ae4-4e08-bb79-a6a64cf14b96": {
+      "ProjectGuid": "82c9a0a1-8ae4-4e08-bb79-a6a64cf14b96",
+      "DisplayName": "MCCNew.Domain.Core",
+      "ColorIndex": 2
+    },
+    "c53c26c2-6da2-4fc1-a67f-a45737e1d850": {
+      "ProjectGuid": "c53c26c2-6da2-4fc1-a67f-a45737e1d850",
+      "DisplayName": "MCCNew.Infra.DapperHelper",
+      "ColorIndex": 3
+    },
+    "aebef2c2-0d79-45fa-99f5-4a8623286665": {
+      "ProjectGuid": "aebef2c2-0d79-45fa-99f5-4a8623286665",
+      "DisplayName": "MCCGrpcService",
+      "ColorIndex": 4
+    },
+    "4ee9a522-9986-47df-892c-ecf2f62ad558": {
+      "ProjectGuid": "4ee9a522-9986-47df-892c-ecf2f62ad558",
+      "DisplayName": "MCCGrpcServer",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "4dfd90a9-c84e-4c9a-8e31-097b5e7cc39a": {
+      "ProjectGuid": "4dfd90a9-c84e-4c9a-8e31-097b5e7cc39a",
+      "DisplayName": "MCCGRPCServer",
+      "ColorIndex": 6
+    },
+    "c73f3478-7f6e-4b86-92f1-dcfe252e5235": {
+      "ProjectGuid": "c73f3478-7f6e-4b86-92f1-dcfe252e5235",
+      "DisplayName": "MCCNew.Services",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

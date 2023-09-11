@@ -1,0 +1,15 @@
+D:\Source\MCCNEW\MCCNEW\MCCNew.Domain.Contracts\bin\Debug\net6.0\MCCNew.Domain.Contracts.deps.json
+D:\Source\MCCNEW\MCCNEW\MCCNew.Domain.Contracts\bin\Debug\net6.0\MCCNew.Domain.Contracts.dll
+D:\Source\MCCNEW\MCCNEW\MCCNew.Domain.Contracts\bin\Debug\net6.0\ref\MCCNew.Domain.Contracts.dll
+D:\Source\MCCNEW\MCCNEW\MCCNew.Domain.Contracts\bin\Debug\net6.0\MCCNew.Domain.Contracts.pdb
+D:\Source\MCCNEW\MCCNEW\MCCNew.Domain.Contracts\bin\Debug\net6.0\MCCNew.Domain.Core.dll
+D:\Source\MCCNEW\MCCNEW\MCCNew.Domain.Contracts\bin\Debug\net6.0\MCCNew.Domain.Core.pdb
+D:\Source\MCCNEW\MCCNEW\MCCNew.Domain.Contracts\obj\Debug\net6.0\MCCNew.Domain.Contracts.csproj.AssemblyReference.cache
+D:\Source\MCCNEW\MCCNEW\MCCNew.Domain.Contracts\obj\Debug\net6.0\MCCNew.Domain.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source\MCCNEW\MCCNEW\MCCNew.Domain.Contracts\obj\Debug\net6.0\MCCNew.Domain.Contracts.AssemblyInfoInputs.cache
+D:\Source\MCCNEW\MCCNEW\MCCNew.Domain.Contracts\obj\Debug\net6.0\MCCNew.Domain.Contracts.AssemblyInfo.cs
+D:\Source\MCCNEW\MCCNEW\MCCNew.Domain.Contracts\obj\Debug\net6.0\MCCNew.Domain.Contracts.csproj.CoreCompileInputs.cache
+D:\Source\MCCNEW\MCCNEW\MCCNew.Domain.Contracts\obj\Debug\net6.0\MCCNew.Domain.Contracts.csproj.CopyComplete
+D:\Source\MCCNEW\MCCNEW\MCCNew.Domain.Contracts\obj\Debug\net6.0\MCCNew.Domain.Contracts.dll
+D:\Source\MCCNEW\MCCNEW\MCCNew.Domain.Contracts\obj\Debug\net6.0\ref\MCCNew.Domain.Contracts.dll
+D:\Source\MCCNEW\MCCNEW\MCCNew.Domain.Contracts\obj\Debug\net6.0\MCCNew.Domain.Contracts.pdb

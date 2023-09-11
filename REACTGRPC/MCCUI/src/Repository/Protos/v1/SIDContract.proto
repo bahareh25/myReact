@@ -1,0 +1,54 @@
+syntax = "proto3";
+package MCCGRPCServer.v1;
+import "google/protobuf/empty.proto";
+
+
+service SID {
+	
+	//rpc GetSidList(GetAllRequest) returns(SIdResponse);
+	rpc GetSidList(google.protobuf.Empty) returns(stream SIdModel);
+	rpc GetNEWSidList(GetAllRequest) returns(SIdResponse);
+    //rpc InsertSID(SIdModel) returns (insertupdatedelete_response);
+	rpc InsertSID(stream SIdModel) returns (stream insertupdatedelete_response);
+	rpc UpdateSID(SIdModel) returns (insertupdatedelete_response);
+    rpc UpdateSIDDefMode(UpdateDefmodResquest) returns (insertupdatedelete_response);
+	rpc DeleteSID(DeleteSIDRequest) returns (insertupdatedelete_response);
+    rpc DeleteParameterId(DeletePIDRequest) returns (insertupdatedelete_response);
+	
+}
+message SIdModel {
+	
+	int32 ParameterId = 1;
+	int32 SId = 2;
+	string Sidname = 3;
+	string Name= 4;
+	double MinValue=5;
+	double MaxValue=6;
+	string PTFormat=7;
+	string ValueType= 8;
+	int32 PTCode= 9;
+	double Multiplicand=10;
+	double totalfact=11;
+	int32 Defmode =12;
+	int32 PID =13;
+}
+message SIdResponse {
+	repeated SIdModel sid = 1;
+}
+message insertupdatedelete_response{
+	bool response=1;
+}
+message UpdateDefmodResquest{
+
+	int32 sid=1;
+	int32 defmode=2;
+}
+message GetAllRequest {}
+message DeleteSIDRequest
+{
+	int32 sid=1;
+}
+message DeletePIDRequest
+{
+	int32 pid=1;
+}

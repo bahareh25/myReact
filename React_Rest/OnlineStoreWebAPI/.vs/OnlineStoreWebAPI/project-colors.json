@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3539f3fb-984b-445c-b160-b10c1be794f4": {
+      "ProjectGuid": "3539f3fb-984b-445c-b160-b10c1be794f4",
+      "DisplayName": "OnlineStoreWebAPI",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "5cc20c90-4077-49e1-896f-db8cf78e1046": {
+      "ProjectGuid": "5cc20c90-4077-49e1-896f-db8cf78e1046",
+      "DisplayName": "OnlineStoreWebAPI",
+      "ColorIndex": 1
+    },
+    "66e7e350-aa88-40e9-8496-032ffdde8ed1": {
+      "ProjectGuid": "66e7e350-aa88-40e9-8496-032ffdde8ed1",
+      "DisplayName": "OnlineStoreWebAPI",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
