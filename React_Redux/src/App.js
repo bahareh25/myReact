@@ -1,26 +1,33 @@
-import React, { Component } from 'react';
-import logo from './logo.svg';
-import './App.css';
-import { DropZoneFileUploader } from './FileUploaders/DropZoneFileLoader';
-import { UserInfo } from './view/UserInfo';
+import React, { Component } from 'react'
+import { ThemeContext, themes } from './context/them-context';
+import ThemeTogglerButton from './context/themed-button';
+import ThemeTogglerButtonTwo from './context/themed-button-two';
 
 
-function App() {
-  return (
-    <div className="container p-5">
-      <h1>React File Uploader</h1>
-      <div className="row">
-        <div className="col-md-6">
-          <UserInfo />
-        </div>
-        <div className="col-md-6">
-          <div style={{ width: "500px" }}>
-            <DropZoneFileUploader />
-          </div>
-        </div>
-      </div>
-    </div>
-  );
+class App extends Component {
+  constructor(props) {
+    super(props);
+
+    this.toggleTheme = () => {
+      this.setState(state => ({
+        theme:
+          state.theme === themes.dark ? themes.light : themes.dark,
+      }));
+    };
+      this.state = {
+        theme: themes.light,
+        toggleTheme: this.toggleTheme,
+      };
+    
+  }
+  render() {
+    return (
+      <ThemeContext.Provider value={this.state}>
+        <ThemeTogglerButton />
+        <ThemeTogglerButtonTwo />
+      </ThemeContext.Provider>
+    );
+  }
 }
 
 export default App;
