@@ -1,0 +1,3 @@
+obj\Debug\net6.0\Protos\v1/SIDContract.cs \
+obj\Debug\net6.0\Protos\v1/SIDContractGrpc.cs: C:/Users/b.broumand/.nuget/packages/grpc.tools/2.43.0/build/native/include/google/protobuf/empty.proto\
+ Protos/v1/SIDContract.proto

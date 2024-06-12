@@ -1,0 +1,11 @@
+D:\Source\MCCNEW\MCCNEW\MCCNew.Infra.DapperHelper\bin\Debug\net6.0\MCCNew.Infra.DapperHelper.deps.json
+D:\Source\MCCNEW\MCCNEW\MCCNew.Infra.DapperHelper\bin\Debug\net6.0\MCCNew.Infra.DapperHelper.dll
+D:\Source\MCCNEW\MCCNEW\MCCNew.Infra.DapperHelper\bin\Debug\net6.0\ref\MCCNew.Infra.DapperHelper.dll
+D:\Source\MCCNEW\MCCNEW\MCCNew.Infra.DapperHelper\bin\Debug\net6.0\MCCNew.Infra.DapperHelper.pdb
+D:\Source\MCCNEW\MCCNEW\MCCNew.Infra.DapperHelper\obj\Debug\net6.0\MCCNew.Infra.DapperHelper.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source\MCCNEW\MCCNEW\MCCNew.Infra.DapperHelper\obj\Debug\net6.0\MCCNew.Infra.DapperHelper.AssemblyInfoInputs.cache
+D:\Source\MCCNEW\MCCNEW\MCCNew.Infra.DapperHelper\obj\Debug\net6.0\MCCNew.Infra.DapperHelper.AssemblyInfo.cs
+D:\Source\MCCNEW\MCCNEW\MCCNew.Infra.DapperHelper\obj\Debug\net6.0\MCCNew.Infra.DapperHelper.csproj.CoreCompileInputs.cache
+D:\Source\MCCNEW\MCCNEW\MCCNew.Infra.DapperHelper\obj\Debug\net6.0\MCCNew.Infra.DapperHelper.dll
+D:\Source\MCCNEW\MCCNEW\MCCNew.Infra.DapperHelper\obj\Debug\net6.0\ref\MCCNew.Infra.DapperHelper.dll
+D:\Source\MCCNEW\MCCNEW\MCCNew.Infra.DapperHelper\obj\Debug\net6.0\MCCNew.Infra.DapperHelper.pdb

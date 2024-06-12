@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "T3EkJ4w60rG9BdMZj5YAVkauiGsAF5CkfsW9Utluh8ZMFDpytUrgP01bjV1icEuZJH9jGSmLFTDeAinfGZgFBQ==",
+  "success": true,
+  "projectFilePath": "D:\\Source\\MCCNEW\\MCCNEW\\MCCNew.Domain.Core\\MCCNew.Domain.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\b.broumand\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.5\\microsoft.aspnetcore.app.ref.6.0.5.nupkg.sha512",
+    "C:\\Users\\b.broumand\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.5\\microsoft.windowsdesktop.app.ref.6.0.5.nupkg.sha512",
+    "C:\\Users\\b.broumand\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.5\\microsoft.netcore.app.ref.6.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
